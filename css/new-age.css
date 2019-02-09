@@ -158,9 +158,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#dc2430));
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("//cdn.shopify.com/s/files/1/1024/3529/files/header-tour-2_cc042427-7c2e-4e64-8dfc-dbb1fc35569b_1500x.jpg?v=1539109894"), #7b4397;
+  background: url("//cdn.shopify.com/s/files/1/1024/3529/files/header-tour-2_cc042427-7c2e-4e64-8dfc-dbb1fc35569b_1500x.jpg?v=1539109894"), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#dc2430));
+  background: url("//cdn.shopify.com/s/files/1/1024/3529/files/header-tour-2_cc042427-7c2e-4e64-8dfc-dbb1fc35569b_1500x.jpg?v=1539109894"), linear-gradient(to left, #7b4397, #dc2430);
 }
 
 header.masthead .header-content {
